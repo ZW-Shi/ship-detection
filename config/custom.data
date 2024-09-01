@@ -1,0 +1,4 @@
+classes= 1
+train=F:\huiyi_jiance\data\coustom_ssdd\SSDD_train.txt
+valid=F:\huiyi_jiance\data\coustom_ssdd\SSDD_val.txt
+names=F:\huiyi_jiance\data\coustom_ssdd\classes.names
